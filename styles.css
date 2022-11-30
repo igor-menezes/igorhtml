@@ -1,0 +1,33 @@
+h1{
+    color: green;
+}
+div{
+    background: greenyellow;
+    margin: 8px;
+    border: 5px solid black;
+    padding: 8px;
+}
+.caixa{
+    background-color: yellow;
+}
+#ultima-caixa{
+    background-color: blueviolet;
+}
+div a{
+    text-decoration: none
+}
+.caixa a {
+    background-color: brown;
+    border: 2px solid green;
+}
+
+#ultima-caixa, p {
+    margin-top: 80px;
+}
+
+p{
+    background-color: yellow;
+    border: 5px solid blue;
+    padding: 5px;
+
+}
